@@ -10,11 +10,12 @@ Pygame Sheetcut is a Python package that simplifies the process of cutting sprit
 
 ## Installation
 
-You can install Pygame Sheetcut using pip:
+Coming Soon!
+<!-- You can install Pygame Sheetcut using pip: -->
 
-```bash
-pip install pygame_sheetcut
-```
+<!-- ```bash -->
+<!-- pip install pygame_sheetcut -->
+<!-- ``` -->
 
 ## Usage
 
