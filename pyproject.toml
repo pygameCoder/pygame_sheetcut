@@ -2,8 +2,9 @@
 name = "pygame_sheetcut"
 version = "1.0.0"
 description = "A package for cutting sprite sheets using Pygame-CE"
-authors = ["Maxwell Alexander Jackson max.the.scratcher@gmail.com"]
+authors = [{name = "Maxwell Alexander Jackson", email = "max.the.scratcher@gmail.com"}]
 license = "MIT"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
