@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pygame_sheetcut"
+name = "pygame-sheetcut"
 version = "1.0.0"
 description = "A package for cutting sprite sheets using Pygame-CE"
 authors = ["Maxwell Alexander Jackson max.the.scratcher@gmail.com"]
