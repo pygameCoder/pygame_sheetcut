@@ -53,7 +53,8 @@ pygame.quit()
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request.
+<!-- Contributions are welcome! Please fork the repository and submit a pull request. -->
+Most likely won't edit this project much, so contributions probably wont be needed... you could ask, though!
 
 ## License
 
